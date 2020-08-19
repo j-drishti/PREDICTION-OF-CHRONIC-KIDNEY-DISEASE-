@@ -24,3 +24,4 @@ Dataset: Adopted from the UCI Machine Learning Repository named Chronic Kidney D
 6. Log-Loss
 7. Receiver Operating Characteristic (ROC) curves
 
+## Report: https://docs.google.com/document/d/1H9n71oXzOCA9iOtDxyjrSevTXxzO4bT634A85fgglko/edit?usp=sharing
